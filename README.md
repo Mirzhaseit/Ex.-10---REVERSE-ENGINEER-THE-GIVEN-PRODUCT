@@ -33,10 +33,13 @@
 ## Input:
 
 ### Output:
+![WhatsApp Image 2025-05-06 at 10 48 29 AM](https://github.com/user-attachments/assets/e1549e0b-24e3-4e99-9fe4-a32f32cb3632)
+![WhatsApp Image 2025-05-06 at 10 48 45 AM](https://github.com/user-attachments/assets/943b98f2-6cf9-4077-aa3f-2c7db95ce220)
 
 
-### Name:
-### Register Number:
+
+### Name:MIRZHA FATHIMA S
+### Register Number:212224230159
 
 ## RESULT:
 ###   Thus the given product is reverse engineered and prototyped using 3D Printer.
